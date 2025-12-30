@@ -1,4 +1,4 @@
-'UseClient'
+'use client';
 
 import { Chat } from '@/components/Chat';
 import { Chat2 } from '@/components/Chat2';
